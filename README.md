@@ -1,2 +1,13 @@
 # Python-Mini-Projects
-A collection of beginner-friendly Python mini projects including Game of Chance, Lottery Winning Result Game, and Rock Paper Scissors, built using core Python concepts such as random number generation, conditional statements, loops, and user interaction.
+This repository contains beginner-friendly Python mini projects developed to strengthen core programming concepts and logic-building skills. The projects included in this repository are:
+- Game of Chance
+- Lottery Winning Result Game
+- Rock Paper Scissors
+## Concepts Used
+- Python Basics
+- Conditional Statements
+- Loops
+- Random Module
+- User Input Handling
+- Game Logic
+These projects were created as practice projects to improve problem-solving and programming fundamentals in Python.
